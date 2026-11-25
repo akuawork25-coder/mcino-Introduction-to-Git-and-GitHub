@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# <your Github username>
+# akuawork25-coder
 
 # Input:
 # p, principal amount
